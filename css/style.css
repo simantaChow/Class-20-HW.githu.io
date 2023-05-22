@@ -80,7 +80,9 @@ a {
     transform-origin: left;
 }
 
-
+.active{
+  transform: scaleX(1);
+}
 
 .sidebar ul li{
     font-size: 30px;
